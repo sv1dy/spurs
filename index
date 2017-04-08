@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>spurs</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<header>
+		<a href=#"><img src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=774764592,3472302626&fm=23&gp=0.jpg" alt="logo"><a>
+		<nav class="main-nav">
+			<li><a href="#feature">feature</a></li>
+			<li><a href="#player">player</a></li>
+			<li><a href="#history">history</a></li>
+			<li><a href="#coach">coach</a></li>
+			<li><a href="#contact">contact</a></li>
+		</nav>
+	</header>
+	<div class="banner">
+		<div class="shade"></div>
+		<div class="banner-content">
+			<h2>go spurs go</h2>
+			<h1>spurs</h1>
+			<button>Go</button>
+		</div>
+	</div>
+	<div class="feature">
+		<a href="#" name="feature"></a>
+		<h2>球队特色</h2>
+		<p>这是NBA中最特别的球队</p>
+		<ul class="clearfix">
+			<li>
+				<h3>纪律</h3>
+				<p>纪律是马刺永远的标签</p>
+			</li>
+			<li>
+				<h3>轮休?</h3>
+				<p>如何才能轮休是波波教练最关心的事</p>
+			<li>
+				<h3>家庭</h3>
+				<p>可能是全世界氛围最好的球队</p>
+			</li>
+		</ul>
+	</div>
+	<div class="player clearfix">
+		<a href="#" name="player"></a>
+		<h2>主要球员</h2>
+		<p>他们可能是产生笑话最多的运动员?</p>
+		<ul>
+			<li>
+				<a href="#"></a>
+				<h3>蒂姆·邓肯</h3>
+				<p>唯一被教练骂不反抗的超级巨星(面瘫)?</p>
+			</li>
+			<li>
+			  <a href="#"></a>
+				<h3>马努·吉诺比利</h3>
+				<p>绰号妖刀，曾经是一个长发飘飘美男子?</p>
+			</li>
+			<li>
+			  <a href="#"></a>
+				<h3>托尼·帕克</h3>
+				<p>法国跑车以快速变向闻名。老婆漂亮?</p>
+			</li>
+			<li>
+			  <a href="#"></a>
+				<h3>科怀·伦纳德</h3>
+				<p>和邓肯最像的地方是不会笑?</p>
+			</li>
+			<li>
+			  <a href="#"></a>
+				<h3>丹尼·格林</h3>
+				<p>绰号张铁林，以投不进球打铁著称?</p>
+			</li>
+			<li>
+			  <a href="#"></a>
+				<h3>加索尔</h3>
+				<p>绰号家嫂，科比好友?</p>
+			</li>
+		</ul>
+	</div>
+	<div class="history">
+	  <a href="#" name="history"></a>
+		<h2>球队历史</h2>
+		<p>这是一只伟大的球队</p>
+		<ul>
+			<li>
+				<div class="summary">
+					<h4>80年代</h4>
+					<h3>冰人时期</h3>
+					<p>在“冰人”乔治·格文的率领下，马刺于1982、1983年连续闯入西部决赛</p>
+				</div>
+			</li>
+			<li>
+				<div class="summary">
+					<h4>90年代</h4>
+					<h3>双塔时期</h3>
+					<p>两位状元秀“海军上将”大卫·罗宾逊和“大基本功”蒂姆·邓肯的“双塔战术”在1999年为球队带来了首个NBA总冠军</p>
+				</div>
+			</li>
+			<li>
+			  <div class="summary">
+					<h4>03-16年</h4>
+					<h3>GDP时期</h3>
+					<p>进入21世纪，随着托尼·帕克和马努·吉诺比利等人相继加入，马刺成为联盟中最具统治力的球队之一。2003年，马刺4比2战胜总决赛对手网队夺冠。2005年，马刺在总决赛中与同样以防守团队体系著称的活塞队鏖战七场夺冠。2007年，马刺在总决赛横扫骑士队，夺取了九年中第四座总冠军奖杯，正式标志“马刺王朝”的诞生。</p>
+			  </div>
+			</li>
+			<li>
+				<div class="summary">
+					<h4>14-至今</h4>
+					<h3>伦纳德时期</h3>
+					<p>2014年，马刺在总决赛中以4比1轻取热火队，第五次夺得NBA总冠军，成为除波士顿凯尔特人、洛杉矶湖人、芝加哥公牛外夺冠次数最多的NBA球队。伦纳德成为总决赛MVP，并逐渐成长为巨星。</p>
+				</div>
+			</li>
+			<li><span>传奇继续</span></li>
+		</ul>
+	</div>
+	<div class="coach">
+		<a href="#" name="coach"></a>
+		<h2>一个伟大的教练</h2>
+		<img src="http://img.mp.itc.cn/upload/20160908/fe6317272da54748a599db7fa7550d78.jpg" alt="coach">
+		<div class="intro">
+			<h3>格雷格·波波维奇</h3>
+			<p>格雷格·波波维奇从1996年开始执教马刺队，是美国四大职业体育联盟执教同一支球队时间最长的教练。他带领马刺队五度夺得NBA总冠军（1999、2003、2005、2007、2014）；三次获得NBA年度最佳教练奖（2003、2012、2014）；四次当选为NBA全明星西部队主教练（2005、2011、2013、2016）。2015年2月10日，马刺战胜步行者的比赛，使格雷格·波波维奇获得执教NBA生涯的第1000场常规赛胜利。2015年10月24日，格雷格·波波维奇被任命为美国男篮下一任主教练，任期为2017年至2020年。</p>
+		</div>
+	</div>
+	<div class="contact">
+		<a href="#" name="contact"></a>
+		 <div class="content">
+		   <h2>加入我们</h2>
+		   <p>了解更多马刺趣闻</p>
+		   <form action="">
+		     <div class="inputs">
+		  	   <input type="text" placeholder="姓名">
+		  	   <input type="text" placeholder="邮箱">
+		  	   <input type="text" placeholder="电话">
+		  	 </div>
+		  	 <textarea name="" id="" cols="30" rows="10" placeholder="您的意见"></textarea>
+		   </form>
+		 </div>
+	</div>
+	<footer class="clearfix">
+    <p>copyright © Your Website 2014</p>
+		 <div class="contact-tool">
+		 	 <a href="#"><i class="iconfont">&#xe602;</i></a>
+		 	 <a href="#"></a>
+		 	 <a href="#"></a>
+		 </div>
+  </footer>
+</body>
+</html>
